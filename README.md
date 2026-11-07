@@ -6,7 +6,7 @@
 
 [![SanovaBase](https://img.shields.io/badge/Building-SanovaBase-2563eb?style=for-the-badge)](https://sanovabase.com)
 
-<img src="./assets/sanovabase-banner.gif" alt="SanovaBase animated technology banner" width="100%">
+<img src="https://github.com/user-attachments/assets/c16b161f-a421-4bfc-afe2-01b77624f093" alt="SanovaBase technology banner" width="100%">
 
 </div>
 
