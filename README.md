@@ -6,6 +6,8 @@
 
 [![SanovaBase](https://img.shields.io/badge/Building-SanovaBase-2563eb?style=for-the-badge)](https://sanovabase.com)
 
+<img src="./assets/sanovabase-banner.gif" alt="SanovaBase animated technology banner" width="100%">
+
 </div>
 
 <p align="center">
@@ -24,12 +26,6 @@ My work is centered on software and platform engineering, system architecture, d
 - **Validation and reliability** — testing assumptions, checking behavior, and using evidence to guide decisions.
 
 ## Building SanovaBase
-
-<div align="center">
-
-[![SanovaBase](https://img.shields.io/badge/SANOVABASE-Independent%20Technology%20Platform-0b5fff?style=for-the-badge&labelColor=080b18)](https://sanovabase.com)
-
-</div>
 
 I’m developing **SanovaBase**, an independent technology platform, alongside foundational engineering projects and experiments.
 
